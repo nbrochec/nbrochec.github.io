@@ -10,15 +10,18 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+include:
+  - assets/css/custom.css
+
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "Nicolas Brochec"
+title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nicolas Brochec"
 description              : "Composer and researcher in computer music"
@@ -114,17 +117,17 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Brochec"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/avatar.jpeg"
+  bio              : "PhD Candidate in Music Creativity and Environment, Composer" # "I am an **amazing** person."
   location         : "Tokyo, Japan"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nicolas.brochec@pm.me"
-    - label: "Website"
+    - label: "Music Works"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://nicolasbrochec.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -133,32 +136,32 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/nbrochec"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/nicolas_brochec"
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url:
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       # url:
+#     - label: "GitLab"
+#       icon: "fab fa-fw fa-gitlab"
+#       # url:
+#     - label: "Bitbucket"
+#       icon: "fab fa-fw fa-bitbucket"
+#       # url:
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       # url:
 
 
 # Reading Files
@@ -324,3 +327,9 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+footer:
+  links: []
+  copyright:
+    enable: false
