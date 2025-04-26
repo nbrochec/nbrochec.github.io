@@ -12,7 +12,7 @@ Max/MSP external and Python tools for recognizing instrumental playing technique
 <b>Repository:</b> <a href="https://github.com/nbrochec/ipt_tilde" target="_blank">ipt_tilde</a>
 </p>
 
-<h4>Real-Time Model Training Toolkit for Electric Guitar IPT Recognition</h4>
+<h4>Classification Model Training Toolkit for Real-Time Electric Guitar IPT Recognition</h4>
 
 <p style="font-size: 90%;">
 Python-based toolkit for training electric guitar playing technique classifiers. Includes data augmentation, preprocessing, model training, and export to <code>.ts</code> format.<br>
