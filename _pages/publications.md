@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h4>2025</h4>
+
+<p style="font-size: 90%;">
+<a href="https://hal.science/hal-05061680" target="_blank"><b>Introducing EG-IPT and ipt~: a novel electric guitar dataset and a new Max/MSP object for real-time classification of instrumental playing techniques</b></a><br>
+<i>New Interfaces for Musical Expression (NIME 2025), Canberra, Australia</i>
+</p>
+
+<p style="font-size: 90%;">
+<a href="https://hal.science/hal-05061669" target="_blank"><b>Interactive Music Co-Creation with an Instrumental Technique-Aware System: A Case Study with Flute and Somax2</b></a><br>
+<i>International Computer Music Conference (ICMC 2025), Boston (MA), United States</i>
+</p>
+
 <h4>2024</h4>
 
 <p style="font-size: 90%;">
