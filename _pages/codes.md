@@ -5,7 +5,7 @@ permalink: /code/
 author_profile: true
 ---
 
-<h4>ipt~ : Real-Time Instrumental Playing Techniques Recognition</h4>
+<h4>ipt~ : Real-Time Instrumental Playing Techniques Recognition Max/MSP External</h4>
 
 <p style="font-size: 90%;">
 Max/MSP external and Python tools for recognizing instrumental playing techniques in real-time.<br>
