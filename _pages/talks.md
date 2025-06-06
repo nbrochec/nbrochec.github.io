@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+Research presentation at international conferences are not included.
+
 <h4>2024</h4>
 
 <p style="font-size: 90%;">
