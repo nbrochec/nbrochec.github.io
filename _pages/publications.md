@@ -17,6 +17,11 @@ author_profile: true
 <i>International Computer Music Conference (ICMC 2025), Boston (MA), United States</i>
 </p>
 
+<p style="font-size: 90%;">
+<b>リアルタイム奏法自動判別を用いたフルートとライブ・エレクトロニクスのための作品《Traversée II》の制作</b><br>
+<i>Japanese Society of Sonic Arts, Vol. 17, No. 2, pp. 1–6</i>
+</p>
+
 <h4>2024</h4>
 
 <p style="font-size: 90%;">
