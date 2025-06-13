@@ -8,6 +8,7 @@ author_profile: true
 Paper presentation at international conferences are not included.
 
 <h4>2025</h4>
+<p style="font-size: 90%;">
 <b>Real-time instrumental playing techniques for mixed music creation</b><br>
 <i>Presented during Japanese-Thai Joint Event for research and education program between Tokyo University of the Arts, KMITL (ISME) Thailand, Tokai University and Yamaha.</i>
 </p>
