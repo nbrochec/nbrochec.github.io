@@ -18,7 +18,7 @@ author_profile: true
 </p>
 
 <p style="font-size: 90%;">
-<b>リアルタイム奏法自動判別を用いたフルートとライブ・エレクトロニクスのための作品《Traversée II》の制作</b><br>
+<a href="https://hal.science/hal-05072222" target="_blank"><b>リアルタイム奏法自動判別を用いたフルートとライブ・エレクトロニクスのための作品《Traversée II》の制作</b><br>
 <i>Japanese Society of Sonic Arts, Vol. 17, No. 2, pp. 1–6</i>
 </p>
 
