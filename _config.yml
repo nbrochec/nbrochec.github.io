@@ -24,7 +24,7 @@ title                    : "Nicolas Brochec"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nicolas Brochec"
-description              : "Composer and researcher in computer music"
+description              : "Researcher and composer in computer music"
 url                      : "https://nbrochec.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nbrochec/nbrochec.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -118,7 +118,7 @@ analytics:
 author:
   name             : "Nicolas Brochec"
   avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/avatar.jpeg"
-  bio              : "PhD Candidate in Music Creativity and Environment, Composer" # "I am an **amazing** person."
+  bio              : "PhD Candidate in Music Creativity and Environment, Researcher and Composer" # "I am an **amazing** person."
   location         : "Tokyo, Japan"
   email            :
   links:
