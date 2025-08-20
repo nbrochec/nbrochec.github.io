@@ -12,18 +12,24 @@ Python-based toolkit for training playing technique classifiers. Includes data a
 </p>
 
 <h4>ipt~ : Real-Time Instrumental Playing Techniques Recognition Max/MSP External</h4>
-
 <p style="font-size: 90%;">
 Max/MSP external and Python tools for recognizing instrumental playing techniques in real-time.<br>
 <b>Repository:</b> <a href="https://github.com/nbrochec/ipt_tilde" target="_blank">ipt_tilde</a>
 </p>
 
 <h4>Classification Model Training Toolkit for Real-Time Electric Guitar IPT Recognition</h4>
-
 <p style="font-size: 90%;">
 Python-based toolkit for training electric guitar playing technique classifiers. Accompanying material of our NIME 2025 paper.<br>
 <b>Repository:</b> <a href="https://github.com/nbrochec/nime2025" target="_blank">nime2025</a>
 </p>
+
+
+<h4>Flute Physical Modelling</h4>
+<p style="font-size: 90%;">
+Python-based and Max-based tools for physical modelling of the flute.<br>
+<b>Repository:</b> <a href="https://github.com/nbrochec/flute-physical-modelling" target="_blank">flute-physical-modelling</a>
+</p>
+
 
 <!-- 
 ## ipt~ : Real-Time Instrumental Playing Techniques Recognition
