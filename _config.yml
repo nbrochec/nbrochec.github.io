@@ -118,7 +118,7 @@ analytics:
 author:
   name             : "Nicolas Brochec"
   avatar           : "/assets/images/avatar.jpeg" # path of avatar image, e.g. "/assets/images/avatar.jpeg"
-  bio              : "PhD Candidate in Music Creativity and Environment, Researcher and Composer" # "I am an **amazing** person."
+  bio              : "Researcher at IRCAM and Composer in Computer Music" # "I am an **amazing** person."
   location         : "Tokyo, Japan"
   email            :
   links:
