@@ -7,6 +7,22 @@ author_profile: true
 
 Paper presentation at international conferences are not included.
 
+<h4>2026</h4>
+<p style="font-size: 90%;">
+<b>From Early Western Instrumental Music to Contemporary Mixed Music: An Historical Overview of Instrumental Playing Technique Practices</b><br>
+<i>Presented at Seoul National University (SNU). Seoul, South Korea.</i>
+</p>
+
+<p style="font-size: 90%;">
+<b>Real-Time Recognition of Instrumental Gestures for Composition and Co-Creative Interaction</b><br>
+<i>Presented at Seoul National University (SNU). Seoul, South Korea.</i>
+</p>
+
+<p style="font-size: 90%;">
+<b>Real-Time Recognition of Instrumental Gestures for Composition and Co-Creative Interaction</b><br>
+<i>Presented at Hanyang University. Seoul, South Korea.</i>
+</p>
+
 <h4>2025</h4>
 <p style="font-size: 90%;">
 <b>Real-Time Recognition of Instrumental Playing Techniques for Composition and CoCreative Interaction</b><br>
