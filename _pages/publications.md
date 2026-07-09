@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+<h4>2026</h4>
+<p style="font-size: 90%;">
+<a href="https://hal.science/hal-05547946" target="_blank"><b>Automatic Hybrid Following in Real-Time Mixed Music: A Case Study with Antescofo and ipt~ for Flute Playing Techniques</b></a><br>
+<i>International Computer Music Conference (ICMC 2026), Hamburg, Germany</i>
+</p>
+
 <h4>2025</h4>
 
 <p style="font-size: 90%;">
