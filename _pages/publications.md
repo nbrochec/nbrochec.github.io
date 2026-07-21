@@ -11,6 +11,11 @@ author_profile: true
 <i>International Computer Music Conference (ICMC 2026), Hamburg, Germany</i>
 </p>
 
+<p style="font-size: 90%;">
+<a href="https://hal.science/tel-05503298" target="_blank"><b>Advancing Human-Computer Interaction in Mixed Music: A Deep Learning Approach to Real-Time Instrumental Playing Technique Recognition</b></a><br>
+<i>Musicology and performing arts. Tokyo University of the Arts, 2026. English.</i>
+</p>
+
 <h4>2025</h4>
 
 <p style="font-size: 90%;">
