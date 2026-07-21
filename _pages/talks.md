@@ -9,6 +9,11 @@ Paper presentation at international conferences are not included.
 
 <h4>2026</h4>
 <p style="font-size: 90%;">
+<b>Advancing Human-Machine Interactions in Music Co-Creativity</b><br>
+<i>Presented at Paris-Saclay during IEEE ARM 2026 workshop. Évry, France.</i>
+</p>
+
+<p style="font-size: 90%;">
 <b>From Early Western Instrumental Music to Contemporary Mixed Music: An Historical Overview of Instrumental Playing Technique Practices</b><br>
 <i>Presented at Seoul National University (SNU). Seoul, South Korea.</i>
 </p>
