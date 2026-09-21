@@ -5,6 +5,12 @@ permalink: /code/
 author_profile: true
 ---
 
+<h4>IPT C API</h4>
+<p style="font-size: 90%;">
+A C API for real-time Instrumental Playing Technique (IPT) classification.<br>
+<b>Repository:</b> <a href="https://github.com/nbrochec/libipt" target="_blank">libipt</a>
+</p>
+
 <h4>Classification Model Training Toolkit for Real-Time IPT Recognition</h4>
 <p style="font-size: 90%;">
 Python-based toolkit for training playing technique classifiers. Includes data augmentation, preprocessing, model training, and export to <code>.ts</code> format.<br>
@@ -22,7 +28,6 @@ Max/MSP external and Python tools for recognizing instrumental playing technique
 Python-based toolkit for training electric guitar playing technique classifiers. Accompanying material of our NIME 2025 paper.<br>
 <b>Repository:</b> <a href="https://github.com/nbrochec/nime2025" target="_blank">nime2025</a>
 </p>
-
 
 <h4>Flute Physical Modelling</h4>
 <p style="font-size: 90%;">
