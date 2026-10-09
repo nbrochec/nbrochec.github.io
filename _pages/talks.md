@@ -9,6 +9,11 @@ Paper presentation at international conferences are not included.
 
 <h4>2026</h4>
 <p style="font-size: 90%;">
+<b>Real-time Instrumental Playing Techniques Recognition and Beyond</b><br>
+<i>Presented during the bi-annual IRCAM Research Council. Invited figures: Yann LeCun, Jonathan Berger (Stanford), Bertrand Braunschweig (INRIA), Thierry Dutoit (Mons University). Paris, France.</i>
+</p>
+
+<p style="font-size: 90%;">
 <b>Advancing Human-Machine Interactions in Music Co-Creativity</b><br>
 <i>Presented at Paris-Saclay during IEEE ARM 2026 workshop. Évry, France.</i>
 </p>
